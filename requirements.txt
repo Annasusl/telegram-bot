@@ -1,0 +1,5 @@
+anyio==4.8.0
+certifi==2024.12.14
+charset-normalizer==3.4.1
+idna==3.10
+python-telegram-bot==20.3
